@@ -2,6 +2,8 @@
 
 Documentation of public available evidence related Delhi riots 2020.
 
+![Front page Delhi riots](reports/front-page-riot-image.png)
+
 # Twitter links grouped by Incidents
 
 [See here](reports/Delhi.md)

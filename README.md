@@ -16,6 +16,6 @@ Documentation of public available evidence related Delhi riots 2020.
 
 # Reports
 
-* [Delhi Riots Fact Finding by Delhi Minority Rights Commission](https://ia801508.us.archive.org/6/items/DMC-delhi-riots-fact-finding-2020/Delhi-riots-Fact-Finding-2020.pdf)
+* [Delhi Riots Fact Finding by Delhi Minority Rights Commission](https://archive.org/details/DMC-delhi-riots-fact-finding-2020)
 
 * [State of relief operation](https://www.groundxero.in/2020/03/02/delhi-pogram-a-fact-finding-report-from-bhajanpura-chaman-park-and-shiv-vihar/)

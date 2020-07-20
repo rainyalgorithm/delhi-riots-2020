@@ -188,11 +188,14 @@ def parse_state(state, text):
             # Text without a markdown marker, this might be the description or metadata
             id_prefix = 'id:'
             tags_prefix = 'tags:'
+            location_prefix = 'location:'
             if line.startswith(id_prefix):
                 entry["id"] = line[len(id_prefix):].strip()
             elif line.startswith(tags_prefix):
                 spacey_tags = line[len(tags_prefix):].split(',')
                 entry["tags"] = [tag.strip() for tag in spacey_tags]
+            elif line.startswith(location_prefix):
+                entry["location"] = line[len(location_prefix):].strip()
             else:
                 # Add a line to the description, but make sure there are no extra
                 # new lines surrounding it.
@@ -328,7 +331,7 @@ def read_all_data():
 def v1_only(item):
     # Deepcopy to avoid affecting the original data
     item = copy.deepcopy(item)
-    v1_keys = set(['links', 'state', 'city', 'edit_at', 'name', 'date', 'date_text', 'id'])
+    v1_keys = set(['links', 'state', 'city', 'edit_at', 'name', 'date', 'date_text', 'id', 'location'])
     # Cache keys to avoid errors for deleting while iterating
     item_keys = list(item.keys())
     for key in item_keys:

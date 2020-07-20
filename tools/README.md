@@ -1,3 +1,6 @@
+# Licence
+The tools are copied from [Police Brutality](https://github.com/2020PB/police-brutality) repository.
+
 # Tools
 
 * `data_builder.py` Script converting .md formatted reports to .csv and .json data.

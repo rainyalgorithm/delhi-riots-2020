@@ -2,7 +2,6 @@
 
 ### Mobs pelting stones | Feb 23
 
-
 location: unknown
 tags: stone-pelting
 **Links**
@@ -109,7 +108,7 @@ tags: religious-arson, police-complicity, Chandbagh, Bhajanpur.
 * https://scroll.in/article/955713/in-photos-fifteen-muslim-shrines-in-delhi-that-were-burnt-by-hindutva-vigilantes-in-three-days
 * https://scroll.in/article/954668/this-young-muslim-woman-took-us-around-a-riot-hit-delhi-locality-the-view-was-revealing
 
-## Arson near anti-CAA protest site | Feb 24
+### Arson near anti-CAA protest site | Feb 24
 
 location: unknown
 tags: arson
@@ -117,7 +116,7 @@ tags: arson
 * https://twitter.com/ZaidZamanHamid/status/1231974361831268352
 * https://twitter.com/BhittaniKhannnn/status/1231951254122876929
 
-## Police complicity in attacks | Feb 24
+### Police complicity in attacks | Feb 24
 
 location: unknown
 tags: stone-pelting
